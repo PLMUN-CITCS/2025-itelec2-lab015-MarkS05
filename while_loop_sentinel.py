@@ -22,4 +22,4 @@ while True:
         continue  # Skip the rest of the loop and prompt for input again
 
 # Step 6: Print the final total sum
-print("The total sum
+print("The total sum is:", total_sum)
